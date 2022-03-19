@@ -32,6 +32,11 @@
 <br />
 <br />
 
+### Operating systems
+
+<img align="left" alt="Mac OS X" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<img align="left" alt="Linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
 <details>
   <summary>Menu 1</summary>
     <p>1.</p>
