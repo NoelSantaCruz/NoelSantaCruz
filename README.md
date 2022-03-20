@@ -1,4 +1,4 @@
-### Noel Santa Cruz:
+# Noel Santa Cruz:
 
 
 - 👋 Hi, I’m @NoelSantaCruz
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary>Operating systems</summary>
+  <summary>Operating Systems</summary>
     <br />
     <img align="left" alt="Mac OS X" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
     <img align="left" alt="Windows" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -39,8 +39,8 @@
 ##
 <br />
 
-<div align="center">
+<div>
   <a href="https://github.com/noelsantacruz">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=noelsantacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelsantacruz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelsantacruz&layout=compact&langs_count=7&theme=dark&hide_border=true&border_radius"/>
 </div>
