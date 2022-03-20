@@ -42,5 +42,8 @@
 <div>
   <a href="https://github.com/noelsantacruz">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=noelsantacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelsantacruz&theme=green_nur&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelsantacruz&layout=compact&langs_count=7&theme=dark&hide_border=true&border_radius"/>
 </div>
