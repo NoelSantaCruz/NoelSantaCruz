@@ -22,7 +22,8 @@
     <img align="left" alt=".NET" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="left" alt="Swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
     <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="MySQL" width="64px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" style="padding-right:10px;" />
+    <img align="left" alt="MySQL" width="64px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" style="padding-right:10px;" /><br /><br />
+    <img align="left" alt="MySQL" width="50px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
     <br /><br />
 </details>
 
