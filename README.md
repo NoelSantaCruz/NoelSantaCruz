@@ -1,11 +1,5 @@
 # Noel Santa Cruz:
 
-
-- 👋 Hi, I’m @NoelSantaCruz
-- 📫 How to reach me: noelsantacruz@gmail.com
-
-##
-
 <details>
   <summary>Languages and Tools</summary>
     <br />
