@@ -1,4 +1,4 @@
-# Noel Santa Cruz:
+# Noel Santa Cruz
 
 <details>
   <summary> Languages and Tools</summary>
