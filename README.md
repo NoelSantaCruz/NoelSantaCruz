@@ -13,13 +13,13 @@
     <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Elixir" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
     <img align="left" alt=".NET" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="left" alt="Swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<!--<img align="left" alt="Swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> -->
     <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <img align="left" alt="GitHub" width="32px" src="https://github.com/NoelSantaCruz/NoelSantaCruz/blob/main/images/icons_guithub.png" style="padding-right:10px;" /><br /><br />
   <p>Databases</p>
-    <img align="left" alt="mariaDB" width="100px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" style="padding-right:10px;" />
+<!--<img align="left" alt="mariaDB" width="100px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" style="padding-right:10px;" /> -->
     <img align="left" alt="SQL" width="50px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
-<!--<img align="left" alt="MySQL" width="75px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" style="padding-right:10px;" /><br /> -->
+    <img align="left" alt="MySQL" width="75px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" style="padding-right:10px;" /><br />
     <br /><br />
 </details>
 
