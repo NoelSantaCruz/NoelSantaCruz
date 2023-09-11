@@ -11,10 +11,12 @@
     <img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Elixir" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+    <img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="left" alt=".NET" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<!--<img align="left" alt="Swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> -->
     <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="JetBrains" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<!--<img align="left" alt="Swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> -->
+    <img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
     <img align="left" alt="GitHub" width="32px" src="https://github.com/NoelSantaCruz/NoelSantaCruz/blob/main/images/icons_guithub.png" style="padding-right:10px;" /><br /><br />
   <p>Databases</p>
 <!--<img align="left" alt="mariaDB" width="100px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" style="padding-right:10px;" /> -->
